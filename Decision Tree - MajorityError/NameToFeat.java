@@ -13,7 +13,7 @@ import java.util.Queue;
 import java.io.*;
 
 public class NameToFeat{
-	public FileInputStream file = null;
+	  public FileInputStream file = null;
     public InputStreamReader isr = null;
     public BufferedReader br = null;
     public FileOutputStream fos = null;
